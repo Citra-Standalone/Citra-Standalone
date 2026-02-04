@@ -14,13 +14,6 @@
     "repoUrl": "https://github.com/KernelSU-Next/KPatch-Next-Module"
   },
   {
-    "id": "ksu_toolkit",
-    "name": "KernelSU Toolkit",
-    "description": "Small extensions on top of KernelSU v3. Mostly for debugging purposes",
-    "author": "xx, KOWX712",
-    "repoUrl": "https://github.com/rifsxd/ksu_toolkit"
-  },
-  {
     "id": "bindhosts",
     "name": "Bindhosts",
     "description": "Systemless hosts for APatch, KernelSU and Magisk",
@@ -43,25 +36,11 @@
     "visibility": 0
   },
   {
-    "id": "COPG",
-    "name": "✨ COPG Spoof ✨",
-    "description": "Ultimate Device Spoofer for Android Games/Apps + CPU Spoofer",
-    "author": "Alireza Parsi",
-    "repoUrl": "https://github.com/AlirezaParsi/COPG"
-  },
-  {
     "id": "playintegrityfix",
     "name": "Play Integrity Fix [INJECT]",
     "description": "Universal modular fix for Play Integrity on devices running Android 8-16",
     "author": "chiteroman, KOWX712",
     "repoUrl": "https://github.com/KOWX712/PlayIntegrityFix"
-  },
-  {
-    "id": "deviceidchanger",
-    "name": "DeviceID/SSAID Changer",
-    "description": "A simple WebUI Module to change SSAID/DeviceID on Rooted Android Devices with Apatch, KSU (And its forks), or Magisk.",
-    "author": "sidex15",
-    "repoUrl": "https://github.com/sidex15/deviceidchanger"
   },
   {
     "id": "susfs4ksu",
