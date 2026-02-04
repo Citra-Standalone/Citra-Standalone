@@ -4,7 +4,7 @@
     "name": "TSupport-Advance",
     "description": "An internal Citra module for passing attestation and DroidGuard, focusing on Stock ROM environments.",
     "author": "Citra-Standalone",
-    "repoUrl": "https://github.com/Citra-Standalone/Citra-Standalone"
+    "repoUrl": "https://github.com/Citra-Standalone/TSupport-Advance"
   },
   {
     "id": "KPatch-Next",
