@@ -1,5 +1,5 @@
 [
-{
+  {
     "id": "tsupport-advance",
     "name": "TSupport-Advance",
     "description": "An internal Citra module for passing attestation and DroidGuard, focusing on Stock ROM environments.",
@@ -7,39 +7,10 @@
     "repoUrl": "https://github.com/Citra-Standalone/TSupport-Advance"
   },
   {
-    "id": "KPatch-Next",
-    "name": "KPatch Next",
-    "description": "Standalone implementation of KPM support for Magisk/KernelSU",
-    "author": "rifsxd, KOWX712",
-    "repoUrl": "https://github.com/KernelSU-Next/KPatch-Next-Module"
-  },
-  {
-    "id": "bindhosts",
-    "name": "Bindhosts",
-    "description": "Systemless hosts for APatch, KernelSU and Magisk",
-    "author": "xx, KOWX712",
-    "repoUrl": "https://github.com/bindhosts/bindhosts"
-  },
-  {
     "id": "tricky_store",
     "name": "TEESimulator",
     "description": "Software simulation for Android hardware-backed key pairs with key attestation",
     "author": "JingMatrix",
     "repoUrl": "https://github.com/JingMatrix/TEESimulator"
-  },
-  {
-    "id": "rezygisk",
-    "name": "ReZygisk",
-    "description": "Standalone implementation of Zygisk",
-    "author": "The PerformanC Organization",
-    "repoUrl": "https://github.com/PerformanC/ReZygisk",
-    "visibility": 0
-  },
-  {
-    "id": "playintegrityfix",
-    "name": "Play Integrity Fix [INJECT]",
-    "description": "Universal modular fix for Play Integrity on devices running Android 8-16",
-    "author": "chiteroman, KOWX712",
-    "repoUrl": "https://github.com/KOWX712/PlayIntegrityFix"
   }
 ]
