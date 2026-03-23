@@ -1,7 +1,7 @@
 ## TSupport-Advance ( R260323 )
 Update changes:
 - Remove Auto Target Feature
-- service.sh : fixing memory leak ( cred_jar )
+- service.sh : fixing memory leak ( cred_jar ) cause by while loop
 
 ---
 ## Support me ☕
