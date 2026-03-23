@@ -1,11 +1,7 @@
-## TSupport-Advance ( R260115 )
-New added:
-- suspicous_props.sh : Detection and fixing solution ( Sometimes reset device props configuration to default )
-- trace_cleaner.sh : Remove LSposed odex trace
-
+## TSupport-Advance ( R260323 )
 Update changes:
-- module.prop : update module description.
-- fp.sh : removed this script/function.
+- Remove Auto Target Feature
+- service.sh : fixing memory leak ( cred_jar )
 
 ---
 ## Support me ☕
